@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D582FB11-BB00-4838-8309-7162C6AB069F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp1/Helper.cs">
+    <Files>
+      <File FileName="ConsoleApp1/Entities/Appointment.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp1/Entities/Examination.cs" />
+      <File FileName="ConsoleApp1/Entities/Person.cs" />
+      <File FileName="ConsoleApp1/Automation.cs" />
+      <File FileName="ConsoleApp1/Helper.cs" Line="98" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp1" expanded="True">
+            <Node name="ConsoleApp1" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Helper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
